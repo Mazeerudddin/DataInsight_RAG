@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+langchain-huggingface>=0.1.0
+langchain-chroma>=0.1.0
+langchain-ollama~=0.2.0
+pymupdf 
+docx2txt
+unstructured
+python-magic
+python-pptx
+pandas
+matplotlib
+streamlit
